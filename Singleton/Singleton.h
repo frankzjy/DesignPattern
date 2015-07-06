@@ -9,6 +9,14 @@
 #ifndef __DesignPattern__Singleton__
 #define __DesignPattern__Singleton__
 
-#include <stdio.h>
+class Singleton
+{
+public:
+    static Singleton * Instance();
+protected:
+    Singleton();
+private:
+    static Singleton * _instance;
+};
 
 #endif /* defined(__DesignPattern__Singleton__) */
