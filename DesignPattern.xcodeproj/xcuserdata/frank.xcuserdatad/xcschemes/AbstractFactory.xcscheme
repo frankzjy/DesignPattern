@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "01B23C501B4A78F20036C5F0"
-               BuildableName = "AbstactFactory"
-               BlueprintName = "AbstactFactory"
+               BlueprintIdentifier = "014AC26B1B4ADA3800148320"
+               BuildableName = "AbstractFactory"
+               BlueprintName = "AbstractFactory"
                ReferencedContainer = "container:DesignPattern.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01B23C501B4A78F20036C5F0"
-            BuildableName = "AbstactFactory"
-            BlueprintName = "AbstactFactory"
+            BlueprintIdentifier = "014AC26B1B4ADA3800148320"
+            BuildableName = "AbstractFactory"
+            BlueprintName = "AbstractFactory"
             ReferencedContainer = "container:DesignPattern.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -52,9 +52,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01B23C501B4A78F20036C5F0"
-            BuildableName = "AbstactFactory"
-            BlueprintName = "AbstactFactory"
+            BlueprintIdentifier = "014AC26B1B4ADA3800148320"
+            BuildableName = "AbstractFactory"
+            BlueprintName = "AbstractFactory"
             ReferencedContainer = "container:DesignPattern.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -71,9 +71,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "01B23C501B4A78F20036C5F0"
-            BuildableName = "AbstactFactory"
-            BlueprintName = "AbstactFactory"
+            BlueprintIdentifier = "014AC26B1B4ADA3800148320"
+            BuildableName = "AbstractFactory"
+            BlueprintName = "AbstractFactory"
             ReferencedContainer = "container:DesignPattern.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

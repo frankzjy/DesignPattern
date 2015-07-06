@@ -4,10 +4,10 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AbstactFactory.xcscheme</key>
+		<key>AbstractFactory.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Factory.xcscheme</key>
 		<dict>
@@ -17,11 +17,21 @@
 		<key>Singleton.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>014AC26B1B4ADA3800148320</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>014BE30F1B4ADD2D00723D90</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>01B23C501B4A78F20036C5F0</key>
 		<dict>
 			<key>primary</key>
