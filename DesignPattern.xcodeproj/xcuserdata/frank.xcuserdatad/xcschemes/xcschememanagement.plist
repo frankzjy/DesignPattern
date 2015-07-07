@@ -19,6 +19,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Prototype.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>Singleton.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -48,6 +53,11 @@
 			<true/>
 		</dict>
 		<key>01F2DEF61B4C119B001CADAB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>01F2DF0B1B4C3689001CADAB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
